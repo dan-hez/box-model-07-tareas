@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#4e93cf;
+}
+h2{
+    color: white;
+    font-family: monospace;
+    font-size: 21px;
+    position: relative;
+    left: 455px;
+    top: 100px;
+}
+.container{
+    width: 350px;
+    height: auto;
+    background-color: rgb(231, 231, 231);
+    border-radius: 5px;
+    padding: 1%;
+    position: relative;
+    top: 130px;
+    left: 450px;
+    box-shadow: 1px 5px 10px 1px rgba(56, 29, 42, 0.349);
+}
+.task{
+    width: 330px;
+    height: auto;
+    background-color: rgb(247, 247, 247);
+    border-radius: 5px;
+    padding: 3%;
+    margin-top: 10px;
+}
+h3{
+    color: rgb(66, 66, 66);
+    font-family: monospace;
+    font-size: 18px;
+    margin: 5% 0 5% 3%;
+}
+span{
+    color: rgb(66, 66, 66);
+    font-family: monospace;
+    font-size: 14px;
+}
+h4{
+    margin: 5% 0 3% 3%;
+    color: rgb(194, 194, 194);
+    font-family: monospace;
+    font-size: 14px;
+}
